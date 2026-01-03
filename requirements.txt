@@ -1,0 +1,10 @@
+# 人民日报PDF处理工具集依赖包
+# 下载模块依赖
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# PDF处理依赖
+PyPDF2==3.0.1
+
+# AI分析依赖
+openai==1.58.1
